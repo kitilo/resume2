@@ -504,13 +504,22 @@
   width:1px;
   height:1px;
 }
-#u13_img {
+#u13_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:40px;
   height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#FFFFFF;
 }
 #u13 {
   border-width:0px;
@@ -573,13 +582,21 @@
   width:1px;
   height:1px;
 }
-#u15_img {
+#u15_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:40px;
   height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
 }
 #u15 {
   border-width:0px;
@@ -645,13 +662,21 @@
   width:1px;
   height:1px;
 }
-#u18_img {
+#u18_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:40px;
   height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
 }
 #u18 {
   border-width:0px;
@@ -713,13 +738,21 @@
   width:1px;
   height:1px;
 }
-#u20_img {
+#u20_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:40px;
   height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
 }
 #u20 {
   border-width:0px;
@@ -785,13 +818,21 @@
   width:1px;
   height:1px;
 }
-#u23_img {
+#u23_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:40px;
   height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
 }
 #u23 {
   border-width:0px;
@@ -853,13 +894,21 @@
   width:1px;
   height:1px;
 }
-#u25_img {
+#u25_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:40px;
   height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
 }
 #u25 {
   border-width:0px;
