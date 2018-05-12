@@ -476,10 +476,7 @@
   height:640px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:2px;
-  border-style:solid;
-  border-color:rgba(255, 0, 0, 1);
+  border:none;
   border-radius:10px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -507,10 +504,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:200px;
+  width:360px;
   height:60px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(102, 102, 102, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -520,9 +517,9 @@
 #u16 {
   border-width:0px;
   position:absolute;
-  left:30px;
+  left:0px;
   top:0px;
-  width:200px;
+  width:360px;
   height:60px;
 }
 #u16_text {
