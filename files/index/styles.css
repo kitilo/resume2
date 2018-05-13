@@ -429,7 +429,7 @@
   width:240px;
   height:60px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 0.2);
+  background-color:rgba(255, 255, 255, 0.0980392156862745);
   border:none;
   border-radius:30px;
   -moz-box-shadow:none;
@@ -1566,7 +1566,7 @@
   width:360px;
   height:480px;
   overflow:hidden;
-  visibility:hidden;
+  touch-action:none;
 }
 #u45_state0 {
   border-width:0px;
@@ -1590,25 +1590,16 @@
   height:1px;
 }
 #u46 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:380px;
-  height:480px;
-  overflow:hidden;
 }
 #u46_state0 {
-  border-width:0px;
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:380px;
-  height:480px;
-  overflow:auto;
-  -webkit-overflow-scrolling:touch;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
+  width:340px;
+  height:1532px;
   background-image:none;
 }
 #u46_state0_content {
